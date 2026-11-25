@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for ReturnsBough.
 - Industry: Ecommerce, Retail, Machine Learning
 - Founder: Chukwuebuka Eze (Founder & CEO)
 - Co-founder: Halimat Yusuf (Co-founder & CTO)
-- Contact: chukwuebuka@returnsbough.top
+- Contact: chukwuebuka@returnsbough.site
 - Business model: Transaction-volume subscriptions
 
 ## Stack

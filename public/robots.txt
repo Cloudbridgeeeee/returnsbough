@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://returnsbough.top/sitemap.xml
+Sitemap: https://returnsbough.site/sitemap.xml
