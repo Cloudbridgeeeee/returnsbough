@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#ff6a2b" stop-opacity=".35"/><stop offset="1" stop-color="#f5f3fb" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f5f3fb"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6a2b"/><stop offset="1" stop-color="#6a4cff"/></linearGradient></defs><rect x="4" y="4" width="56" height="56" rx="16" fill="url(#g)"/><path d="M12 38c6-8 10-8 16 0s10 8 16 0 8-8 10-6" fill="none" stroke="#1fb8a3" stroke-width="5" stroke-linecap="round"/><path d="M12 26c6-8 10-8 16 0s10 8 16 0 8-8 10-6" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/></g>
+  <text x="190" y="150" font-family="Familjen Grotesk, Georgia, serif" font-size="54" font-weight="600" fill="#1b1530">ReturnsBough</text>
+  <text x="80" y="330" font-family="Familjen Grotesk, Georgia, serif" font-size="72" font-weight="700" fill="#1b1530">Understand why products</text>
+  <text x="80" y="414" font-family="Familjen Grotesk, Georgia, serif" font-size="72" font-weight="700" fill="#1b1530">come back.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#ff6a2b" letter-spacing="4">ECOMMERCE  ·  RETAIL  ·  MACHINE LEARNING</text>
+</svg>

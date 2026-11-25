@@ -1,0 +1,16 @@
+{
+  "name": "ReturnsBough",
+  "short_name": "ReturnsBough",
+  "description": "AI product returns analytics software that analyzes customer-reported return reasons to identify recurring product, sizing and fulfilment issues.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3fb",
+  "theme_color": "#f5f3fb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
